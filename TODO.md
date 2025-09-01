@@ -1,0 +1,21 @@
+# TODO List for Improving React CV Project
+
+- [x] Install react-icons and framer-motion
+- [x] Create src/data.js with CV data
+- [x] Update Header component to use data and add contact links
+- [x] Update Perfil component to use data
+- [x] Update Habilidades component to use data and add progress bars
+- [x] Update Experiencia component to use data
+- [x] Update Educacion component to use data
+- [x] Update Certificaciones component to use data
+- [x] Create Contact component
+- [x] Create Projects component
+- [x] Create Languages component
+- [x] Update App.js to include new components and animations
+- [x] Add Footer component
+- [x] Improve responsiveness
+- [x] Remove or rename CV_LuisVargas.html
+- [x] Test the app
+- [x] Fix missing public/index.html and manifest.json
+- [x] Remove unsupported theme-color meta tag
+- [x] Prepare for Netlify deployment (create _redirects and netlify.toml)
