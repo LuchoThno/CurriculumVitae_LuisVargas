@@ -9,7 +9,7 @@ export const cvData = {
     phone: "+56 9 6569 8527",
     location: "Concepción, Chile"
   },
-  profile: "Frontend developer with experience in React, TypeScript, and Tailwind, building scalable applications with an excellent user experience. Professional with 20 years of experience in Maritime Administration in the Chilean Navy, currently retired and pursuing a degree in Computer and Information Engineering, with a strong passion for technology and web development.",
+  profile: "Frontend developer with experience in React, TypeScript, and Tailwind, building scalable applications with an excellent user experience. Professional with 20 years of experience in Maritime Administration in the Chilean Navy, currently retired and pursuing a degree in Computer Science Engineering, with a strong passion for technology and web development.",
   skills: {
     frontend: ["React", "Next.js", "Vue.js", "JavaScript", "TypeScript"],
     styles: ["Tailwind", "CSS3", "Sass"],
@@ -30,7 +30,7 @@ description: "20 years of experience in maritime administration, operational man
   ],
   education: [
     {
-  degree: "Computer and Information Engineering",
+  degree: "Computer Science Engineering",
   institution: "Gabriela Mistral University",
   period: "2023 - Present"
 },
