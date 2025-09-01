@@ -46,7 +46,7 @@ projects: [
   {
     title: "React CV Project",
     description: "Personal CV application built with React and Tailwind CSS.",
-    link: "https://github.com/LuchoThno/react-cv-project"
+    link: "https://github.com/LuchoThno/CurriculumVitae_LuisVargas"
   },
   {
     title: "Psychopedagogy Thesis Project App",
