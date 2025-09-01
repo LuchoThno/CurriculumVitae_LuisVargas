@@ -1,6 +1,6 @@
 export const cvData = {
   personal: {
-    name: "Luis Vargas",
+    name: "Luis Elías Vargas Vergara",
     title: "Frontend Developer",
     initials: "LV",
     github: "https://github.com/LuchoThno",
